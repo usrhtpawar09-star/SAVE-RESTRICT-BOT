@@ -1,7 +1,7 @@
 # ========================================================
 # Rexbots
 # Don't Remove Credit 🥺
-# Telegram Channel @RexBots_Official
+# Telegram Channel @usrhtff01
 #
 # Maintained & Updated by:
 # Dhanpal Sharma
