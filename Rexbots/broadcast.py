@@ -1,6 +1,6 @@
 # Rexbots
 # Don't Remove Credit
-# Telegram Channel @RexBots_Official
+# Telegram Channel @usrhtff02
 
 
 
@@ -83,7 +83,7 @@ async def broadcast_command(bot: Client, message: Message):
             done += 1
 # Rexbots
 # Don't Remove Credit
-# Telegram Channel @RexBots_Official
+# Telegram Channel @usrhtff01
 
             if done % 20 == 0:
                 await sts.edit(
@@ -166,9 +166,9 @@ async def users_count(bot: Client, message: Message):
 
 
 # Credits
-# Developer Telegram: @RexBots_Official
-# Update channel: @RexBots_Official
+# Developer Telegram: @usrhtff009
+# Update channel: @usrhtff01
 
 # Rexbots
 # Don't Remove Credit
-# Telegram Channel @RexBots_Official
+# Telegram Channel @usrhtff01
