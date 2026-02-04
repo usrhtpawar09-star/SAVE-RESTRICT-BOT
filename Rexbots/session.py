@@ -1,5 +1,5 @@
-# Developed by: LastPerson07 × RexBots
-# Telegram: @RexBots_Official | @THEUPDATEDGUYS
+# Developed by: usrht
+# Telegram: @usrhtff01
 
 import asyncio
 from pyrogram import Client, filters
