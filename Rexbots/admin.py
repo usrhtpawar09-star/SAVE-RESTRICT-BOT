@@ -30,7 +30,7 @@ async def unban(client: Client, message: Message):
         await message.reply_text("Error unbanning user.")
 # Rexbots
 # Don't Remove Credit
-# Telegram Channel @RexBots_Official
+# Telegram Channel @usrhtff01
 
 @Client.on_message(filters.command("set_dump") & filters.user(ADMINS))
 async def set_dump(client: Client, message: Message):
