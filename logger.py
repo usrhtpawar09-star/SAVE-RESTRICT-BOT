@@ -1,8 +1,8 @@
 """
 Logging Configuration
 
-Developed by: LastPerson07 × RexBots
-Telegram: @RexBots_Official | @THEUPDATEDGUYS
+Developed by: usrht
+Telegram: @usrhtff09
 """
 
 import logging
