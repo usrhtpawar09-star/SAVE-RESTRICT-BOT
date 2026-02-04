@@ -1,6 +1,6 @@
 # Rexbots
 # Don't Remove Credit
-# Telegram Channel @RexBots_Official
+# Telegram Channel @usrhtff01
 
 from pyrogram import Client, filters
 from pyrogram.types import Message
@@ -54,4 +54,4 @@ async def manage_force_subscribe(client: Client, message: Message):
 
 # Rexbots
 # Don't Remove Credit
-# Telegram Channel @RexBots_Official
+# Telegram Channel @usrhtff01
